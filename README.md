@@ -93,10 +93,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0rvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="165" loading="lazy" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0rvey&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="m0rvey's Contribution Graph" width="100%" loading="lazy" />
-</div>
-
 ---
 
 <p align="center">
