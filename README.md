@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=AI+Developer;Open+Source+Enthusiast;Building+the+future+with+AI" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=m0rvey&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
-
 Welcome to my page!  
 I'm **m0rvey**, AI Developer crafting intelligent systems and modern software solutions.
 
@@ -57,12 +53,12 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0rvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="m0rvey's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0rvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0rvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="m0rvey's GitHub Stats" height="165" loading="lazy" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0rvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="165" loading="lazy" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0rvey&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="m0rvey's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0rvey&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="m0rvey's Contribution Graph" width="100%" loading="lazy" />
 </div>
 
 <p align="center">
