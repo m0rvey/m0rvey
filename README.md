@@ -35,14 +35,14 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 
 ---
 
-### 📌 Featured Work & Posts
+### ⭐ My Favorite Projects
 
-- 🚀 [**How to build scalable fullstack applications with TypeScript & Next.js**](https://github.com/m0rvey)  
-  *Best practices for clean architecture, state management, and API design.*
-- ⚡ [**Building high-performance APIs with Node.js & Docker**](https://github.com/m0rvey)  
-  *Optimizing latency, containerization, and automated CI/CD pipelines.*
-- 🎨 [**Modern UI/UX Design System with Tailwind & React**](https://github.com/m0rvey)  
-  *Creating accessible, reusable, and responsive component libraries.*
+- 🛡️ [**zapret-discord-youtube**](https://github.com/Flowseal/zapret-discord-youtube)  
+  *Easily configure and run zapret for Discord and YouTube.*
+- ⚡ [**tg-ws-proxy**](https://github.com/Flowseal/tg-ws-proxy)  
+  *Lightweight WebSocket proxy for Telegram traffic.*
+- 🎙️ [**shlgd / SuperDictate**](https://github.com/shlgd/SuperDictate)  
+  *AI-powered voice-to-text dictation application.*
 
 ---
 
@@ -56,27 +56,6 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rvey&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://t.me/your_telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/your_discord_id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <b>✨ Thanks for visiting! Let's connect and build something great together. 🚀</b>
