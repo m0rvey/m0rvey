@@ -1,13 +1,15 @@
-# 😎 Hey! Nice to see you.
+# Hello everyone! 😎
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=Fullstack+Developer;Open+Source+Enthusiast;Building+cool+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=AI+Developer;Open+Source+Enthusiast;Building+the+future+with+AI" alt="Typing SVG" />
 
 Welcome to my page!  
-I'm **m0rvey**, Fullstack Developer crafting modern web applications and developer tools.
+I'm **m0rvey**, AI Developer crafting intelligent systems and modern software solutions.
 
 ---
 
-### 🛠️ Things I code with
+### 🛠️ Things I code with: EVERY PROGRAMMING LANGUAGE*
+
+> *\* Because with a solid foundation in core principles, problem-solving, and modern AI tooling — syntax is just an implementation detail.*
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
