@@ -49,12 +49,12 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0rvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="m0rvey's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0rvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="m0rvey's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0rvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rvey&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=m0rvey&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <p align="center">
