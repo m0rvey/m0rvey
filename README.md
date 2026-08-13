@@ -89,8 +89,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0rvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="m0rvey's GitHub Stats" height="165" loading="lazy" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0rvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="165" loading="lazy" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0rvey&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="m0rvey's GitHub Stats" height="165" loading="lazy" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0rvey&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="165" loading="lazy" />
 </div>
 
 ---
