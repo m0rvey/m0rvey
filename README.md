@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=AI+Developer;Open+Source+Enthusiast;Building+the+future+with+AI" alt="Typing SVG" />
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=m0rvey&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
+
 Welcome to my page!  
 I'm **m0rvey**, AI Developer crafting intelligent systems and modern software solutions.
 
@@ -11,7 +15,11 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 
 > *\* Because with a solid foundation in core principles, problem-solving, and modern AI tooling — syntax is just an implementation detail.*
 
-<!-- Core Technologies -->
+<!-- AI & Core Stack -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,8 +38,8 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🔔 Issues | 👔 Pull requests |
 | :--- | :---: | :---: | :---: | :---: |
 | [**lifeos**](https://github.com/m0rvey/lifeos) | ![Stars](https://img.shields.io/github/stars/m0rvey/lifeos?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/m0rvey/lifeos?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/m0rvey/lifeos?style=flat-square&color=dfb317) | ![PRs](https://img.shields.io/github/issues-pr/m0rvey/lifeos?style=flat-square&color=fe7d37) |
-| [**TypeScript & React Starter**](https://github.com/m0rvey) | ![Stars](https://img.shields.io/github/stars/m0rvey/m0rvey?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/m0rvey/m0rvey?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/m0rvey/m0rvey?style=flat-square&color=dfb317) | ![PRs](https://img.shields.io/github/issues-pr/m0rvey/m0rvey?style=flat-square&color=fe7d37) |
-| [**Node.js Microservices Starter**](https://github.com/m0rvey) | ![Stars](https://img.shields.io/github/stars/m0rvey/m0rvey?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/m0rvey/m0rvey?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/m0rvey/m0rvey?style=flat-square&color=dfb317) | ![PRs](https://img.shields.io/github/issues-pr/m0rvey/m0rvey?style=flat-square&color=fe7d37) |
+| [**academic-dashboard**](https://github.com/m0rvey/academic-dashboard) | ![Stars](https://img.shields.io/github/stars/m0rvey/academic-dashboard?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/m0rvey/academic-dashboard?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/m0rvey/academic-dashboard?style=flat-square&color=dfb317) | ![PRs](https://img.shields.io/github/issues-pr/m0rvey/academic-dashboard?style=flat-square&color=fe7d37) |
+| [**m0rvey**](https://github.com/m0rvey/m0rvey) | ![Stars](https://img.shields.io/github/stars/m0rvey/m0rvey?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/m0rvey/m0rvey?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/m0rvey/m0rvey?style=flat-square&color=dfb317) | ![PRs](https://img.shields.io/github/issues-pr/m0rvey/m0rvey?style=flat-square&color=fe7d37) |
 
 ---
 
