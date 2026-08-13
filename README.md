@@ -38,11 +38,11 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 ### ⭐ My Favorite Projects
 
 - 🛡️ [**zapret-discord-youtube**](https://github.com/Flowseal/zapret-discord-youtube)  
-  *Easily configure and run zapret for Discord and YouTube.*
+  *Bypass Russian blocking to download websites and apps.*
 - ⚡ [**tg-ws-proxy**](https://github.com/Flowseal/tg-ws-proxy)  
   *Lightweight WebSocket proxy for Telegram traffic.*
 - 🎙️ [**shlgd / SuperDictate**](https://github.com/shlgd/SuperDictate)  
-  *AI-powered voice-to-text dictation application.*
+  *AI-powered voice-to-text dictation application for MacBooks (macOS).*
 
 ---
 
