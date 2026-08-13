@@ -54,7 +54,7 @@ I'm **m0rvey**, AI Developer crafting intelligent systems and modern software so
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=m0rvey&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0rvey&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="m0rvey's Contribution Graph" />
 </div>
 
 <p align="center">
