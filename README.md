@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/IndexedDB-Offline--First-10B981?style=flat-square" />
       </p>
-      <p>Autonomous, privacy-first personal operating system. Features an Eisenhower matrix, 2D Zettelkasten knowledge graph, cycling telemetry & garage maintenance, budgeting engine, and social network graph.</p>
+      <p>Autonomous, offline-first personal operating system for productivity, knowledge, telemetry, and reflection.</p>
       <p align="center">
         <a href="https://github.com/m0rvey/lifeos"><img src="https://img.shields.io/github/stars/m0rvey/lifeos?style=flat-square&color=007ec6&label=Stars" /></a>
         <a href="https://github.com/m0rvey/lifeos/issues"><img src="https://img.shields.io/github/issues/m0rvey/lifeos?style=flat-square&color=dfb317&label=Issues" /></a>
@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <p>Browser extension for FACEIT CS2. Delivers real-time lobby intelligence, MR12 win probability forecasting, heuristic smurf detection, tactical map veto analytics, and matchmaking automation.</p>
+      <p>Modern Chrome extension for FACEIT CS2 delivering real-time lobby telemetry, MR12 win predictions, smurf detection, and tactical veto analysis.</p>
       <p align="center">
         <a href="https://github.com/m0rvey/f-insight"><img src="https://img.shields.io/github/stars/m0rvey/f-insight?style=flat-square&color=007ec6&label=Stars" /></a>
         <a href="https://github.com/m0rvey/f-insight/issues"><img src="https://img.shields.io/github/issues/m0rvey/f-insight?style=flat-square&color=dfb317&label=Issues" /></a>
@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/Whisper-CoreML-FF6F00?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Apple_Silicon-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
       </p>
-      <p>Fast, on-device voice-to-text dictation utility for macOS. Speech recognition via CoreML Whisper models with global hotkeys and zero telemetry.</p>
+      <p>Fast, private, local dictation for Apple Silicon Macs <i>(Fork of <a href="https://github.com/shlgd/SuperDictate">shlgd/SuperDictate</a>)</i>.</p>
       <p align="center">
         <a href="https://github.com/m0rvey/SuperDictate"><img src="https://img.shields.io/github/stars/m0rvey/SuperDictate?style=flat-square&color=007ec6&label=Stars" /></a>
         <a href="https://github.com/m0rvey/SuperDictate/issues"><img src="https://img.shields.io/github/issues/m0rvey/SuperDictate?style=flat-square&color=dfb317&label=Issues" /></a>
@@ -77,7 +77,7 @@
         <img src="https://img.shields.io/badge/Aiogram_3-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite3-WAL_Mode-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <p>macOS Cupertino workload planner & Telegram assistant. Synchronized desktop GUI and bot, Russian NLP task extraction, mathematical priority scoring, O(1) GPA engine, and Kanban board.</p>
+      <p>Personal workload planner, deadline tracker, and academic GPA manager in macOS Cupertino style with Telegram bot integration.</p>
       <p align="center">
         <a href="https://github.com/m0rvey/academic-dashboard"><img src="https://img.shields.io/github/stars/m0rvey/academic-dashboard?style=flat-square&color=007ec6&label=Stars" /></a>
         <a href="https://github.com/m0rvey/academic-dashboard/issues"><img src="https://img.shields.io/github/issues/m0rvey/academic-dashboard?style=flat-square&color=dfb317&label=Issues" /></a>
