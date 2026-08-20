@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/Whisper-CoreML-FF6F00?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Apple_Silicon-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
       </p>
-      <p>Fast, on-device voice-to-text dictation utility for macOS <i>(Fork of <a href="https://github.com/shlgd/SuperDictate">shlgd/SuperDictate</a>)</i>. Speech recognition via CoreML Whisper models with global hotkeys and zero telemetry.</p>
+      <p>Fast, on-device voice-to-text dictation utility for macOS. Speech recognition via CoreML Whisper models with global hotkeys and zero telemetry.</p>
       <p align="center">
         <a href="https://github.com/m0rvey/SuperDictate"><img src="https://img.shields.io/github/stars/m0rvey/SuperDictate?style=flat-square&color=007ec6&label=Stars" /></a>
         <a href="https://github.com/m0rvey/SuperDictate/issues"><img src="https://img.shields.io/github/issues/m0rvey/SuperDictate?style=flat-square&color=dfb317&label=Issues" /></a>
